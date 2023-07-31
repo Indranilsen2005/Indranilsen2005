@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Flutter-Shopping-List-App**
 
-- 🌱 I’m currently learning **Flutter framework, Dart, Android development**
+- 🌱 I’m currently learning **flutter framework, dart, android development**
 
-- 💬 Ask me about **Android, app development, flutter**
+- 💬 Ask me about **android, app development, flutter & dart**
 
 - 📫 How to reach me **indranilsen217@gmail.com**
 
-- ⚡ Fun fact **Sometimes I act as a foolish 😂**
+- ⚡ Fun fact **sometimes I act as a foolish 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
