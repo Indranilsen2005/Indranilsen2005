@@ -1,9 +1,10 @@
+[![MasterHead](https://tms-outsource.com/blog/wp-content/uploads/2023/04/android-ide.jpg)]
 <h1 align="center">Hi 👋, I'm Indranil Sen</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranilsen2005&label=Profile%20views&color=0e75b6&style=flat" alt="indranilsen2005" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@indranilsen2005" target="blank"><img src="https://img.shields.io/twitter/follow/@indranilsen2005?logo=twitter&style=for-the-badge" alt="indranilsen2005" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@indranilsen2005" target="blank"><img src="https://img.shields.io/twitter/follow/indranilsen2005?logo=twitter&style=for-the-badge" alt="indranilsen2005" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter-Shopping-List-App**
 
