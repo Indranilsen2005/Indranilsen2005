@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Flutter-Shopping-List-App**
+- 🔭 I’m currently working on **ChatOn - A Simple Chat App**
 
 - 🌱 I’m currently learning **flutter framework, dart, android development**
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@indranilsen2005" target="blank"><img align="center" src="https://img.freepik.com/free-icon/twitter_318-566762.jpg?size=626&ext=jpg" alt="@indranilsen2005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/indranil-sen-608186264" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="indranil-sen-608186264" height="40" width="40" /></a>
+<a href="https://twitter.com/@IndranilSen2005" target="blank"><img align="center" src="https://img.freepik.com/free-icon/twitter_318-566762.jpg?size=626&ext=jpg" alt="@IndranilSen2005" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/indranilsen2005" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="indranil-sen-608186264" height="40" width="40" /></a>
 <a href="https://youtube.com/@indranilsen2005" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" alt="@indranilsen2005" height="40" width="40" /></a>
 </p>
 
